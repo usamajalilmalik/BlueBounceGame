@@ -1,0 +1,16 @@
+{
+"companyName": "BlueBox",
+"productName": "Blue Bounce",
+"productVersion": "1",
+"dataUrl": "BlueBounce Game.data.unityweb",
+"wasmCodeUrl": "BlueBounce Game.wasm.code.unityweb",
+"wasmFrameworkUrl": "BlueBounce Game.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "BlueBounce Game.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.40f1"
+}
